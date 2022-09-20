@@ -1,2 +1,2 @@
 # steam-market-helper
-Chrome extension to help check market orders on Steam
+Chrome extensions to help check market orders on Steam market
